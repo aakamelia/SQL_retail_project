@@ -30,7 +30,7 @@ CREATE TABLE retail_sales
 	total_sale FLOAT
 	);
 ```
-## 2. Data Exploration & Cleaning**
+## 2. Data Exploration & Cleaning
 - **Record Count**: Menghitung total jumlah baris data pada tabel.
 - **Null Check**: Memeriksa apakah ada data yang kosong pada kolom-kolom penting.
 - **Data Cleaning**: Menghapus baris data yang memiliki nilai kosong (null).
