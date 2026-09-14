@@ -1,4 +1,4 @@
-# Analisis Data Penjualan Retail Menggunakan SQL (DUMMY PROJECT)
+# Analisis Data Penjualan Retail Menggunakan SQL (Dummy Project)
 Project ini dibuat untuk menunjukkan kemampuan SQL yang biasa digunakan oleh data analyst dalam melakukan eksplorasi, pembersihan, dan analisis data penjualan retail. Project ini mencakup pembuatan database penjualan retail, pembersihan data, exploratory data analysis (EDA), hingga menjawab pertanyaan-pertanyaan bisnis menggunakan query SQL.
 Catatan: Ini merupakan dummy project (data latihan/simulasi) yang dibuat untuk keperluan belajar dan portofolio, bukan data penjualan dari perusahaan atau bisnis nyata.
 ## Objectives
